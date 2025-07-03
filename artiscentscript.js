@@ -1,4 +1,4 @@
-
+<script>
                 // Slideshow JavaScript
                 let slideIndex = 1;
         let slideTimer;
@@ -395,4 +395,4 @@
             document.getElementById('feedback-modal').style.display = 'none';
             showAlert('Thank you for your feedback!');
         });
-    
+</script> 
